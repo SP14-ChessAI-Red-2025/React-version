@@ -1,0 +1,9 @@
+Flask
+flask-cors
+gunicorn
+Cython
+numpy
+python-chess
+onnx
+onnxruntime
+setuptools
